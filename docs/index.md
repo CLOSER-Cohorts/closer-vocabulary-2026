@@ -15,7 +15,9 @@ The revision is driven by a number of considerations:
 
 ### Improvements, feedback and bugs
 
-To comment on the new vocabulary, please fill in the following survey: https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2
+To comment on the new vocabulary, please fill in the following survey: 
+
+[Leave your feedback](https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2){ .md-button }
 
 <hr>
 
