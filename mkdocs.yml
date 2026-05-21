@@ -46,4 +46,4 @@ markdown_extensions:
       alternate_style: true
       
 extra_css:
-#  - stylesheets/extra.css
+  - stylesheets/extra.css
