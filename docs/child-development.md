@@ -1,9 +1,5 @@
 # Child development (111)
 
-Added
-
-Moved (to level 1 or under another topic)
-
 |     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What is it** | **What it isn’t** | **Examples** | **Comments** |
