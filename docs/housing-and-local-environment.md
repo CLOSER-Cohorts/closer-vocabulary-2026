@@ -1,12 +1,7 @@
 # Housing and local environment (102)
 
-Added
-
-Moved (to level 1 or under another topic)
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What it isn’t** | **Examples** | **Changes** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 102 | Housing and local environment | Housing = Living facilities for humans. ([MeSH](https://meshb.nlm.nih.gov/record/ui?ui=D006798))<sup>1</sup><br><br>Environment = The external elements and conditions which surround, influence and affect the life and development of an organism or population. ([MeSH](https://meshb.nlm.nih.gov/record/ui?ui=D004777))<sup>2</sup> | Housing:<br><br>HOUSING  <br>ACCOMMODATION<br><br>Environment:<br><br>HUMAN ENVIRONMENT |     |     |     |     |
 |     | Housing and local environment (CV19) | As above. |     |     |     |     |     |
 | 10201 | Housing | Living facilities for humans. ([MeSH](https://meshb.nlm.nih.gov/record/ui?ui=D006798))<sup>3</sup> | HOUSING<br><br>ACCOMMODATION<br><br>DOMESTIC APPLIANCES<br><br>HOUSING AGE<br><br>HOUSING CONDITIONS<br><br>HOSUING OWNERSHIP<br><br>RENTED ACCOMODATION<br><br>TIED HOUSING<br><br>BUILDING MAINTENANCE<br><br>HOUSING TENURE<br><br>COOKING FACILITIES<br><br>HEATING FACILITIES | Ownership status, household facilities and utilities used in the house | Anything related to housing benefits<br><br>e.g. (from Benefits \| welfare):  <br>'\*Are you (or your husband/partner) receiving any of the following benefits? (Income support/job seekers allowance/working tax credit/housing benefit) Tag to “Benefits & Welfare (10908)”<br><br>Exposure to harmful chemicals (tag to “Environmental exposure” (10204)) | Does your household own this accommodation outright, is it being bought with a mortgage, is it rented or does it come rent-free?<br><br>Is your hot water tank usually heated electrically?<br><br>How often do you have any windows open in your home: In summer: day |     |
