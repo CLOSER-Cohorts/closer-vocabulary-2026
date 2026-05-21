@@ -1,1 +1,2 @@
-# closer-vocabulary-2026
+# CLOSER Vocabulary
+
