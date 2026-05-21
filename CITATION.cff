@@ -1,0 +1,24 @@
+# YAML 1.2
+---
+cff-version: "1.2.0"
+message: "If you use this software, please cite it using these metadata."
+authors: 
+  - family-names: Oldroyd
+    given-names: Becky
+    orcid: "https://orcid.org/0000-0001-9309-9510"
+  - family-names: Johnson
+    given-names: Jon
+    orcid: "https://orcid.org/0000-0001-8482-1620"
+  - family-names: Mills
+    given-names: Hayley
+    orcid: "https://orcid.org/0000-0001-9503-1149"
+  - family-names: White
+    given-names: Sarah
+  - family-names: Lyttelton
+    given-names: Oliver
+date-released: 2026-06-01
+license: "CC-BY-NC-SA"
+repository-code: "https://github.com/CLOSER-Cohorts/closer-vocabulary-2026"
+title: "CLOSER Vocabulary"
+url: "https://closer-cohorts.github.io/closer-vocabulary-2026/"
+version: "1.0"
