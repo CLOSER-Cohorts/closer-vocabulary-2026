@@ -1,8 +1,7 @@
 # Demographics (101)
 
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What isn’t** | **Examples** | **Changes** |
-| 11601 | COVID Demographics |     | &nbsp; |     |     |     | &nbsp; |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 101 | Demographics<br><br>Unclassified to Level 2 |     | &nbsp; |     | MARITAL STATUS, Disability |     |     |
 | 10101 | Place of birth | Place of birth represented by a geographical unit | &nbsp;PLACE OF BIRTH | Geographical location of birth |     | What country were you born in?<br><br>What country was your father born in?<br><br>Which city were you born in? | &nbsp; |
 | 10102 | Gender identity and sex | Sex: Biological Sex<br><br>Gender Identity: A person’s psychological sense of self in relation to their gender \[APA\]<br><br>Sexual Orientation: person’s sexual and emotional attraction to another person and the behavior and/or social affiliation that may result from this attraction. | &nbsp;GENDER IDENTITY, SEX, SEXUAL ORIENTATION | Questions which ask a respondent for their or another person’s sex, gender identity or sexual orientation. |     | What is your sex?<br><br>Is the gender you identify with the same as your sex registered at birth<br><br>Which of the following options best describes how you think of your gender identity? |     |
