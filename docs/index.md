@@ -1,25 +1,26 @@
 # CLOSER Vocabulary Consultation 2026
 
-CLOSER are proposing a revision to its Topic Vocabulary.
+CLOSER are proposing a revision to its Topic Vocabulary, which can be found at: https://ucldata.atlassian.net/wiki/spaces/CLOS/pages/37323020/Topics
 
+The Topic Vocabulary plays an important part in providing a consistent way of searching across our studies.
 The current vocabulary was developed over 10 years ago to support a smaller set of studies and a smaller range of subject areas.
 The revision is driven by a number of considerations:
 
 - Improving consistency
-- Alignment with the European Language Social Science Thesaurus [ELSST]{https://thesauri.cessda.eu/elsst-6/en/)
+- Alignment with the European Language Social Science Thesaurus [ELSST](https://thesauri.cessda.eu/elsst-6/en/)
 - Better definitions and examples to assist in classification to the correct topic
 - Addition of what it is *not* 
 - Reorganisation to provide better clarity for discovery
-- To retain similar number of overall categories
+- To retain a similar number of overall categories for eaae of use
 - To provide an improved framework for AI / Machine Learning assisted coding
 
 ### Improvements, feedback and bugs
 
-To comment on the new vocabulary, please fill in the following survey: 
+We are asking for feedback, from the community especially from data providers, and those who use [CLOSER Discovery](https://discovery.closer.ac.uk). To comment on the new vocabulary, please fill in the feedback survey: 
 
 [Leave your feedback](https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2){ .md-button }
 
-THe consultation will be open for 6 weeks, closing on 4 July 2026 
+**The consultation will be open from 1 June to 4 July 2026**  
 
 <hr>
 
