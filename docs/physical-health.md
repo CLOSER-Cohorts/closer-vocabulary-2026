@@ -1,14 +1,7 @@
 # Physical health (103)
 
-Added
-
-Moved (to level 1 or under another topic)
-
-WIP.
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What it isn’t** | **Examples** | **Changes** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 103 | Physical health | Physical health is how well your organs and body systems function | HEALTH |     | Anything related to medication, treatment, or health care for a physical health problem should be tagged to the relevant topic in “Health care (105)”<br><br>The presence or absence of a physical disability (tag to “Disability (10108)”. |     |     |
 | 10301 | Cardiovascular system | [MeSH](https://www.ncbi.nlm.nih.gov/mesh/?term=Cardiovascular+system): “The HEART and the BLOOD VESSELS by which BLOOD is pumped and circulated through the body.”<sup>1</sup> | CARDIOVASCULAR SYSTEM<br><br>CARDIOVASCULAR DISEASES |     |     | “Have you ever had any OTHER HEART TROUBLE (e.g. valve disease, congenital heart disease or irregular heart beat) suspected or confirmed?”<br><br>“Has a doctor ever told you that you have had a HEART ATTACK (MYOCARDIAL INFARCT/CORONARY THROMBOSIS)?”<br><br>“Has a doctor ever told you that you have had ANGINA?” |     |
 | 10302 | Musculoskeletal system | [MeSH](https://www.ncbi.nlm.nih.gov/mesh/68009141): “The MUSCLES, bones (BONE AND BONES), and CARTILAGE of the body.”<sup>2</sup> | MUSCULOSKELETAL SYSTEM<br><br>MUSCULOSKELETAL DISEASES | General functioning of the musculoskeletal system over time | Sudden -accidents or injuries (tag to “Accidents and injuries” (10317)) | “Have you been diagnosed as suffering from Rheumatoid Arthritis?”<br><br>“You said you have recurrent backache, prolapsed disc or sciatica. Which of these do you have?”<br><br>“In the last 12 months have you experienced any aches and pains in the joints?” |     |
