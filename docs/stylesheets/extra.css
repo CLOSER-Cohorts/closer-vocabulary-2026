@@ -38,6 +38,9 @@
   padding: 1rem;            /* optional: spacing inside */
 }
 
+.md-main__inner.md-grid {
+    max-width: initial;
+}
 h1, h2 {
     color: #000000; /* Pure black or choose a darker shade */
     font-weight: 900; /* Optional: make them bolder */
