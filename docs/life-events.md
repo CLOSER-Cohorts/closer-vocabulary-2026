@@ -1,14 +1,7 @@
 # Life events (112)
 
-Added
-
-Moved (to level 1 or under another topic)
-
-This page is a WIP.
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What is isn’t** | **Examples** | **Changes** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 112 | Life events | Any significant event in a person's life that may have beneficial or detrimental effects on social relationships and status. (Oxford Online) | LIFE EVENTS | Includes questions that mention multiple life events in one question |     | How many times have you had a pregnancy which resulted in a still-birth, miscarriage or termination since \[^date of last interview/your 16th birthday in April 1986\]? |     |
 | 11201 | Retirement | The state of being retired from one's position or occupation. ([MeSH)](https://meshb.nlm.nih.gov/record/ui?ui=D012179)<sup>13</sup> | RETIREMENT  <br>RETIRED  <br>RETIRED PERSONS  <br>EARLY RETIREMENT  <br>RETIREMENT AGE | Includes plans for retirement | Income received from pensions. Tag to “Pensions” (10907) | With retirement, do you feel your life has gone through a major change?<br><br>(Thinking about retirement, how important is...) Having the chance to travel?<br><br>At what age do you expect to retire fully? ... years old |     |
 | 1202 | Pregnancy | The condition between conception (fertilization of an egg by a sperm) and birth, during which the fertilized egg develops in the uterus. (https://www.cancer.gov/publications/dictionaries/cancer-terms/def/pregnancy ) | PREGNANCY<br><br>PREGNANT<br><br>TEENAGE PREGNANCY<br><br>PREGNANCY COMPLICATIONS | Being pregnant, trying to get pregnant, plans to have children | Pregnancy outcomes referring to childbirth itself or infant mortality. These should be tagged to “Childbirth (11203)” or “Infant mortality (11204)”.<br><br>Questions on reproduction (tag to “Reproductive health” (10315)) | Was this current pregnancy planned?<br><br>Did you start taking folic acid supplements before becoming pregnant?<br><br>Are you and your partner trying for a baby at the moment? | Moved location from 114 |
