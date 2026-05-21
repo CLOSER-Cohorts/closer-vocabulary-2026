@@ -1,8 +1,5 @@
 # Demographics (101)
 
-This page is a WIP.
-
-|     |     |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What isn’t** | **Examples** | **Changes** |
 | 11601 | COVID Demographics |     | &nbsp; |     |     |     | &nbsp; |
