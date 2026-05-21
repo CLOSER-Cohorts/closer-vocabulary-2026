@@ -1,12 +1,7 @@
 # Health care (105)
 
-Added
-
-Moved (to level 1 or under another topic)
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What it is** | **What is isn’t** | **Examples** | **Comments** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 105 | Health and social care | [ELSST (medical care)](https://thesauri.cessda.eu/elsst-5/en/page/17d374f5-a930-4a1a-869a-12a748283d94): “COVERS ALL ASPECTS OF MEDICAL CARE GIVEN TO OR RECEIVED BY A PATIENT, INCLUDING EXAMINATIONS, DIAGNOSIS, MONITORING AND TREATMENT.”<sup>1</sup> | MEDICAL CARE<br><br>HEALTH | Care provided by medical and non-medical professionals (e.g. family), including help with daily tasks (e.g. washing and dressing). |     | “When your 'Children of the Nineties' child has a health problem, what do you do? Other (please tick and describe )” | Renamed from Health Care |
 | 10501 | Health services utilisation | [ELSST (health services)](https://thesauri.cessda.eu/elsst-5/en/page/38854495-5f8e-4a5f-aed7-8819d1b14473): “HEALTH SERVICES PROVIDED AT NATIONAL OR REGIONAL LEVEL”<sup>2</sup> | HEALTH SERVICES<br><br>ACCESS TO HEALTH SERVICES | The use of private or public health services, including care at home. Includes patient care i.e. an appointment in a hospital or a GP | An overnight hospital stay or admission. These questions should be tagged to “10502 (Hospital admissions)” | “Over the past year which health and/or support services have been involved with you and your child? GP”<br><br>“Have you seen an optician or a doctor about problems with eyesight in the last 12 months?”<br><br>“How often has your baby gone to the Child Health Clinic or Baby Clinic?” |     |
 | 10502 | Hospital admissions | [ELSST](https://thesauri.cessda.eu/elsst-5/en/page/d5ce3767-f68d-44c6-8f2f-c9d66e3a2023): “THE PROCESS OF ACCEPTING PATIENTS INTO HOSPITAL CARE; NUMBERS OF PATIENTS ADMITTED TO HOSPITAL”<sup>3</sup> | HOSPITAL ADMISSIONS<br><br>HOSPITAL SERVICES | Includes respite care. | Hospital visits as an outpatient (tag to “Health services utilisation” (10501)). | “Have you been admitted to hospital (including as a day case) in the last 12 months?”<br><br>“What were the main reasons for you being in hospital? Please specify”<br><br>“How long were you in hospital?” |     |
