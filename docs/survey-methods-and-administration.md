@@ -1,0 +1,12 @@
+# Survey methods and administration (115)
+
+This page is a WIP.
+
+|     |     |     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What is it** | **What it isn’t** | **Examples** | **Changes** |
+| 115 | Survey Methods and Administration |     |     |     |     |     |     |
+| 11501 | Administration | Administration of the survey and related survey methods |     | Questions relating to the conduct of the survey | Consent tag to (11503) | Person Number, Interview date, Household identifier, Checks, survey mode |     |
+| 11502 | Weighting | The process of adjusting the value of survey responses to account for over- or under-representation of different categories of respondent. Weighting is used where the sample design is disproportional or where the achieved sample does not accurately reflect the population under investigation.<br><br>https://www.mrs.org.uk/glossary |     | Weights and data items such as PSU (Primary Sampling Unit) used as inputs to weight the results | Measurement of weight tag to “Anthropometry” (10320) | Primary sampling unit, Strata | New topic |
+| 11503 | Consent | Consent is any freely given, specific, informed and unambiguous indication of the data subject’s wishes by which he or she, by a statement or by a clear affirmative action, signifies agreement to the processing of personal data relating to him or her<br><br>https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/lawful-basis/consent/what-is-valid-consent/#what1 |     | Questions relating to the gaining of consent for a test, set of questions, or use of data from a third party such as data linkage, or to access other records. | Consent unrelated to survey administration e.g. If you have your parents' consent, what is the youngest age at which you can get married in Great Britain? | May we have your consent to take part in the genetics study?<br><br>Send height and weight results to GP | New topic |
+| 11504 | Survey Outcome | https://methods.sagepub.com/ency/edvol/encyclopedia-of-survey-research-methods/chpt/response-rates |     | Recording of participation or otherwise in a survey at a person or other level. |     | Outcome for Covid19 wave 2 survey | New topic |
