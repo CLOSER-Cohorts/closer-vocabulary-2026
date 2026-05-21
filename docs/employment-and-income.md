@@ -1,8 +1,5 @@
 # Employment and income (109)
 
-Added
-
-Moved (to level 1 or under another topic)
 
 | **Topic** | **Description** | **APA or ELSST definition** | **Terms (ELSST)** | **What it is** | **What it isn’t** | **Examples** | **Changes** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
