@@ -1,0 +1,49 @@
+site_name: CLOSER Vocabulary Consultation 2026
+
+theme:
+  name: material
+  features:
+    - navigation.expand
+    - content.tooltips
+  logo: assets/closer.png
+  font:
+    text: Source Sans Pro  
+nav:
+  - Child development: "child-development.md"
+  - Cognitive functioning: "cognitive-functioning.md"
+  - Demographics: "demographics.md"
+  - Education: "education.md"
+  - Employment and income: "employment-and-income.md"
+  - Expectations, attitudes and beliefs: "expectations-attitudes-and-beliefs.md"
+  - Family and social networks: "family-and-social-networks.md"
+  - Health behaviour: "health-behaviour.md"
+  - Health care: "health-care.md"
+  - Housing and local environment: "housing-and-local-environment.md"
+  - Life events: "life-events.md"
+  - Mental health: "mental-health   .md"
+  - Omics: "omics.md"
+  - Personality: "personality.md"
+  - Physical health: "physical-health.md"
+  - Survey methods and administration: "survey-methods-and-administration.md"
+  - Technology and social media: "technology-and-social-media.md"
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      
+extra_css:
+#  - stylesheets/extra.css
