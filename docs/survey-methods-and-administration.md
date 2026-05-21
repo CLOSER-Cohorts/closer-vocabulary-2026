@@ -1,10 +1,7 @@
 # Survey methods and administration (115)
 
-This page is a WIP.
-
-|     |     |     |     |     |     |     |     |
-| --- | --- | --- | --- | --- | --- | --- | --- |
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What is it** | **What it isn’t** | **Examples** | **Changes** |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | 115 | Survey Methods and Administration |     |     |     |     |     |     |
 | 11501 | Administration | Administration of the survey and related survey methods |     | Questions relating to the conduct of the survey | Consent tag to (11503) | Person Number, Interview date, Household identifier, Checks, survey mode |     |
 | 11502 | Weighting | The process of adjusting the value of survey responses to account for over- or under-representation of different categories of respondent. Weighting is used where the sample design is disproportional or where the achieved sample does not accurately reflect the population under investigation.<br><br>https://www.mrs.org.uk/glossary |     | Weights and data items such as PSU (Primary Sampling Unit) used as inputs to weight the results | Measurement of weight tag to “Anthropometry” (10320) | Primary sampling unit, Strata | New topic |
