@@ -19,6 +19,8 @@ To comment on the new vocabulary, please fill in the following survey:
 
 [Leave your feedback](https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2){ .md-button }
 
+THe consultation will be open for 6 weeks, closing on 4 July 2026 
+
 <hr>
 
 ### Background
