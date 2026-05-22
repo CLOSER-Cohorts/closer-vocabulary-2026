@@ -15,6 +15,8 @@
   padding: 10px;
 }
 
+tr:nth-child(even) {background-color: #D3D3D3;}
+
 .md-tabs__link {
     font-size: 1.1rem; 
     font-weight: bold; /* Controls font size of tabbed content */
