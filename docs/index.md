@@ -20,7 +20,7 @@ We are asking for feedback, from the community especially from data providers, a
 
 [Leave your feedback](https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2){ .md-button }
 
-**The consultation will be open from 1 June to 4 July 2026**  
+**The consultation will be open from 1 June to 31 July 2026**  
 
 <hr>
 
