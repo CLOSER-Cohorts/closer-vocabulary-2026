@@ -40,8 +40,12 @@ tr:nth-child(even) {background-color: #D3D3D3;}
   padding: 1rem;            /* optional: spacing inside */
 }
 
-.md-content {
-   min-width: 1400px;
+#.md-content {
+#   min-width: 1400px;
+#}
+
+.md-main__inner.md-grid {
+    max-width: 1400px;
 }
 
 h1, h2 {
