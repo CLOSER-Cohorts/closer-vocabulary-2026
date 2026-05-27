@@ -26,6 +26,7 @@ nav:
   - Technology and social media: "technology-and-social-media.md"
   - Personality: "personality.md"
   - Cognitive functioning: "cognitive-functioning.md"
+  - Bibliography: "bibliography.md"
 
 markdown_extensions:
   - abbr
