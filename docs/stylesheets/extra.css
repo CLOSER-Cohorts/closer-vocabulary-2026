@@ -15,6 +15,10 @@
   padding: 10px;
 }
 
+table {
+  border: 1px solid;
+}
+
 th {
     background-color: #D3D3D3;
 }
