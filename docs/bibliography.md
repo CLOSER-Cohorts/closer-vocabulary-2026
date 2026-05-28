@@ -23,7 +23,7 @@
 
 ## [Demographics (101)](https://closer-cohorts.github.io/closer-vocabulary-2026/demographics/)
 
-<sup>1</sup>
+<sup>1</sup>CLOSER. May 2026.
 
 <sup>2</sup>American Psychological Association (APA) / sex. May 2026.
 
@@ -33,15 +33,15 @@
 
 <sup>5</sup>Office for National Statistics (ONS) / Ethnic group (detailed) variable: Census 2021. May 2026.
 
-<sup>6</sup>
+<sup>6</sup>CLOSER. May 2026.
 
-<sup>7</sup>
+<sup>7</sup>CLOSER. May 2026.
 
-<sup>8</sup>
+<sup>8</sup>CLOSER. May 2026.
 
 <sup>9</sup>Office for National Statistics (ONS) / Disability, England and Wales: Census 2021. May 2026.
 
-<sup>10</sup>
+<sup>10</sup>CLOSER. May 2026.
 
 <sup>11</sup>European Language Social Science Thesaurus (ELSST) / Civil status. May 2026.
 
@@ -287,7 +287,7 @@
 
 ## [Survey methods and administration (115)](https://closer-cohorts.github.io/closer-vocabulary-2026/survey-methods-and-administration/)
 
-<sup>1</sup>
+<sup>1</sup>CLOSER. May 2026.
 
 <sup>2</sup>MRS glossary of market research terms / Weighting. May 2026.
 
