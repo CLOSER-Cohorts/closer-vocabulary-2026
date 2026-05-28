@@ -289,11 +289,11 @@
 
 <sup>1</sup>
 
-<sup>2</sup>Glossary of market research terms / Weighting. May 2026.
+<sup>2</sup>MRS glossary of market research terms / Weighting. May 2026.
 
-<sup>3</sup>Office for National Statistics (ONS)
+<sup>3</sup>Information Commissioner's Office (ICO) / What is valid consent?. May 2026.
 
-<sup>4</sup>
+<sup>4</sup>Sage Research Methods / Response rates. May 2026.
 
 ## [Technology and social media (117)](https://closer-cohorts.github.io/closer-vocabulary-2026/technology-and-social-media/)
 
