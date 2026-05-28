@@ -11,12 +11,12 @@ The revision is driven by a number of considerations:
 - Better definitions and examples to assist in classification to the correct topic
 - Addition of what it is *not* 
 - Reorganisation to provide better clarity for discovery
-- To retain a similar number of overall categories for eaae of use
+- To retain a similar number of overall categories for ease of use
 - To provide an improved framework for AI / Machine Learning assisted coding
 
 ### Improvements, feedback and bugs
 
-We are asking for feedback, from the community especially from data providers, and those who use [CLOSER Discovery](https://discovery.closer.ac.uk). To comment on the new vocabulary, please fill in the feedback survey: 
+We are asking for feedback from the community, especially from data providers, and those who use [CLOSER Discovery](https://discovery.closer.ac.uk). To comment on the new vocabulary, please fill in the feedback survey: 
 
 [Leave your feedback](https://qualtrics.ucl.ac.uk/jfe/form/SV_b8i4rkqSlMOhZk2){ .md-button }
 
@@ -36,7 +36,7 @@ We are asking for feedback, from the community especially from data providers, a
 
 #### Development
 
-The revision was funded as part of CLOSER's Core Grant (2024).  and through Metadata uplift in Longitudinal Population Studies: provenance, discovery and disclosure. (2025) EPSRC. UKRI2700
+The revision was funded as part of CLOSER's Core Grant (2024), and through Metadata uplift in Longitudinal Population Studies: provenance, discovery and disclosure. (2025) EPSRC. UKRI2700
 Extraction and Utilisation of Metadata from Non-machine-actionable Documents to Improve Data Curation and Discovery. (2024). ESRC. ES/Z502935/1
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
