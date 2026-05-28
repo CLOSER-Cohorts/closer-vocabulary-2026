@@ -203,7 +203,7 @@
 
 ## [Life events (112)](https://closer-cohorts.github.io/closer-vocabulary-2026/life-events/)
 
-<sup>1</sup>Oxford Online.
+<sup>1</sup>European Language Social Science Thesaurus (ELSST) / Life events. May 2026.
 
 <sup>2</sup>Medical Subject Headings (MeSH) / Retirement. May 2026.
 
