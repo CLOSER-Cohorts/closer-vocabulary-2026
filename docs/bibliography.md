@@ -203,7 +203,15 @@
 
 ## [Life events (112)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/696647681/Life+events+112)
 
-Add when the page is finalised
+<sup>1</sup>Oxford Online.
+
+<sup>2</sup>Medical Subject Headings (MeSH) / Retirement. May 2026.
+
+<sup>3</sup>National Cancer Institute / pregnancy. May 2026.
+
+<sup>4</sup>European Language Social Science Thesaurus (ELSST) / Childbirth. May 2026.
+
+<sup>5</sup>National Institutes of Health / Infant mortality. May 2026.
 
 ## [Mental health (104)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/491585709/Mental+health+104)
 
