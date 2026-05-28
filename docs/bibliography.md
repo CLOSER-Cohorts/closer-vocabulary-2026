@@ -19,7 +19,7 @@
 
 ## [Cognitive functioning (119)](https://closer-cohorts.github.io/closer-vocabulary-2026/cognitive-functioning/)
 
-<sup>1</sup>American Psychological Association (APA) / puberty. April 2026.
+<sup>1</sup>American Psychological Association (APA) / cognitive functioning. April 2026.
 
 ## [Demographics (101)](https://closer-cohorts.github.io/closer-vocabulary-2026/demographics/)
 
