@@ -23,23 +23,27 @@
 
 ## [Demographics (101)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/491978845/Demographics+101)
 
-<sup>1</sup>ADD
+<sup>1</sup>
 
-<sup>2</sup>ADD
+<sup>2</sup>American Psychological Association (APA) / sex. May 2026.
 
-<sup>3</sup>ADD
+<sup>3</sup>American Psychological Association (APA) / gender identity. May 2026.
 
-<sup>4</sup>Office for National Statistics (ONS)
+<sup>4</sup>American Psychological Association (APA) / sexual orientation. May 2026.
 
-<sup>5</sup>ADD
+<sup>5</sup>Office for National Statistics (ONS) / Ethnic group (detailed) variable: Census 2021. May 2026.
 
-<sup>6</sup>ADD
+<sup>6</sup>
 
-<sup>7</sup>ADD
+<sup>7</sup>
 
-<sup>8</sup>Office for National Statistics (ONS)
+<sup>8</sup>
 
-<sup>9</sup>Office for National Statistics (ONS)
+<sup>9</sup>Office for National Statistics (ONS) / Disability, England and Wales: Census 2021. May 2026.
+
+<sup>10</sup>
+
+<sup>11</sup>European Language Social Science Thesaurus (ELSST) / Civil status. May 2026.
 
 ## [Education (108)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/492306446/Education+108)
 
