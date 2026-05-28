@@ -287,7 +287,13 @@
 
 ## [Survey methods and administration (115)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/511017013/Survey+methods+and+administration+115)
 
-Add when the page is finalised
+<sup>1</sup>
+
+<sup>2</sup>Glossary of market research terms / Weighting. May 2026.
+
+<sup>3</sup>Office for National Statistics (ONS)
+
+<sup>4</sup>
 
 ## [Technology and social media (117)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/1265434625/Technology+and+social+media+117)
 
