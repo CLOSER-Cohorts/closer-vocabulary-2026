@@ -1,7 +1,7 @@
 
 # Topics bibliography
 
-## [Child development (111)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/491978828/Child+development+111)
+## [Child development (111)](https://closer-cohorts.github.io/closer-vocabulary-2026/child-development/)
 
 <sup>1</sup>American Psychological Association (APA) / child development. March 2026.
 
@@ -17,11 +17,11 @@
 
 <sup>7</sup>American Psychological Association (APA) / puberty. April 2026.
 
-## [Cognitive functioning (119)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/1264713731/Cognitive+functioning+119)
+## [Cognitive functioning (119)](https://closer-cohorts.github.io/closer-vocabulary-2026/cognitive-functioning/)
 
 <sup>1</sup>American Psychological Association (APA) / puberty. April 2026.
 
-## [Demographics (101)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/491978845/Demographics+101)
+## [Demographics (101)](https://closer-cohorts.github.io/closer-vocabulary-2026/demographics/)
 
 <sup>1</sup>
 
@@ -45,7 +45,7 @@
 
 <sup>11</sup>European Language Social Science Thesaurus (ELSST) / Civil status. May 2026.
 
-## [Education (108)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/492306446/Education+108)
+## [Education (108)](https://closer-cohorts.github.io/closer-vocabulary-2026/education/)
 
 <sup>1</sup>Medical Subject Headings (MeSH) / Education. March 2026.
 
@@ -73,7 +73,7 @@
 
 <sup>13</sup>Oxford Learner's Dictionaries / secondary education. March 2026.
 
-## [Employment and income (109)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/510886040/Employment+and+income+109)
+## [Employment and income (109)](https://closer-cohorts.github.io/closer-vocabulary-2026/employment-and-income/)
 
 <sup>1</sup>Medical Subject Headings (MeSH) / Employment. March 2026.
 
@@ -101,7 +101,7 @@
 
 <sup>13</sup>Medical Subject Headings (MeSH) / Retirement. March 2026.
 
-## [Expectations, attitudes and beliefs (110)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/511017032/Expectations+attitudes+and+beliefs+110)
+## [Expectations, attitudes and beliefs (110)](https://closer-cohorts.github.io/closer-vocabulary-2026/expectations-attitudes-and-beliefs/)
 
 <sup>1</sup>Oxford Languages / expectation. March 2026.
 
@@ -119,7 +119,7 @@
 
 <sup>8</sup>Oxford Languages / crime. March 2026.
 
-## [Family and social networks (107)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/510853224/Family+and+social+networks+107)
+## [Family and social networks (107)](https://closer-cohorts.github.io/closer-vocabulary-2026/family-and-social-networks/)
 
 <sup>1</sup>American Psychological Association (APA) / family. March 2026.
 
@@ -145,7 +145,7 @@
 
 <sup>12</sup>Office for National Statistics (ONS) / Social capital in the UK: 2020. March 2026.
 
-## [Health behaviour (106)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/583401475/Health+behaviour+106)
+## [Health behaviour (106)](https://closer-cohorts.github.io/closer-vocabulary-2026/health-behaviour/)
 
 <sup>1</sup>European Language Social Science Thesaurus (ELSST) / Lifestyle and health. March 2026.
 
@@ -167,7 +167,7 @@
 
 <sup>10</sup>Medical Subject Headings (MeSH) / Sexual Behavior. March 2026.
 
-## [Health care (105)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/677609510/Health+care+105)
+## [Health care (105)](https://closer-cohorts.github.io/closer-vocabulary-2026/health-care/)
 
 <sup>1</sup>European Language Social Science Thesaurus (ELSST) / Medical care. March 2026.
 
@@ -181,7 +181,7 @@
 
 <sup>6</sup>Medical Subject Headings (MeSH) / Complementary Therapies. March 2026.
 
-## [Housing and local environment (102)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/510296076/Housing+and+local+environment+102)
+## [Housing and local environment (102)](https://closer-cohorts.github.io/closer-vocabulary-2026/housing-and-local-environment/)
 
 <sup>1</sup>Medical Subject Headings (MeSH) / Housing. March 2026.
 
@@ -201,7 +201,7 @@
 
 <sup>1</sup>European Language Social Science Thesaurus (ELSST) / Leisure time activities. April 2026.
 
-## [Life events (112)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/696647681/Life+events+112)
+## [Life events (112)](https://closer-cohorts.github.io/closer-vocabulary-2026/life-events/)
 
 <sup>1</sup>Oxford Online.
 
@@ -213,7 +213,7 @@
 
 <sup>5</sup>National Institutes of Health / Infant mortality. May 2026.
 
-## [Mental health (104)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/491585709/Mental+health+104)
+## [Mental health (104)](https://closer-cohorts.github.io/closer-vocabulary-2026/mental-health/)
 
 <sup>1</sup>American Psychological Association (APA) / mental health. March 2026.
 
@@ -223,15 +223,15 @@
 
 <sup>4</sup>American Psychological Association (APA) / emotion. March 2026.
 
-## [Omics (113)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/733642753/Omics+113)
+## [Omics (113)](https://closer-cohorts.github.io/closer-vocabulary-2026/omics/)
 
 <sup>1</sup>Oxford online.
 
-## [Personality (118)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/1265270789/Personality+118)
+## [Personality (118)](https://closer-cohorts.github.io/closer-vocabulary-2026/personality/)
 
 1American Psychological Association (APA) / personality. April 2026.
 
-## [Physical health (103)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/678002689/Physical+health+103)
+## [Physical health (103)](https://closer-cohorts.github.io/closer-vocabulary-2026/physical-health/)
 
 <sup>1</sup>Medical Subject Headings (MeSH) / Cardiovascular System. March 2026.
 
@@ -285,7 +285,7 @@
 
 <sup>26</sup>Office for National Statistics (ONS) / General health, England and Wales: Census 2021. March 2026.
 
-## [Survey methods and administration (115)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/511017013/Survey+methods+and+administration+115)
+## [Survey methods and administration (115)](https://closer-cohorts.github.io/closer-vocabulary-2026/survey-methods-and-administration/)
 
 <sup>1</sup>
 
@@ -295,7 +295,7 @@
 
 <sup>4</sup>
 
-## [Technology and social media (117)](https://ucldata.atlassian.net/wiki/spaces/CTTEAM/pages/1265434625/Technology+and+social+media+117)
+## [Technology and social media (117)](https://closer-cohorts.github.io/closer-vocabulary-2026/technology-and-social-media/)
 
 <sup>1</sup>American Psychological Association (APA) / Technology and innovation. April 2026.
 
