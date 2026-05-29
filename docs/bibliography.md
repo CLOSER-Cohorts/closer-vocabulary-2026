@@ -93,7 +93,7 @@
 
 <sup>9</sup>Cambridge Dictionary / expenditure. March 2026.
 
-<sup>10</sup>Cambridge Dictionary / pension. March 2026.
+<sup>10</sup>Cambridge Dictionary / pension. March 2026. - edited.
 
 <sup>11</sup>Oxford Dictionaries. March 2026.
 
