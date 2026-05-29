@@ -231,57 +231,59 @@
 
 ## [Physical health (103)](https://closer-cohorts.github.io/closer-vocabulary-2026/physical-health/)
 
-<sup>1</sup>Medical Subject Headings (MeSH) / Cardiovascular System. March 2026.
+<sup>1</sup>CLOSER.
 
-<sup>2</sup>Medical Subject Headings (MeSH) / Musculoskeletal System. March 2026.
+<sup>2</sup>Medical Subject Headings (MeSH) / Cardiovascular System. March 2026.
 
-<sup>3</sup>Medical Subject Headings (MeSH) / Respiratory System. March 2026.
+<sup>3</sup>Medical Subject Headings (MeSH) / Musculoskeletal System. March 2026.
 
-<sup>4</sup>Medical Subject Headings (MeSH) / Nervous System. March 2026.
+<sup>4</sup>Medical Subject Headings (MeSH) / Respiratory System. March 2026.
 
-<sup>5</sup>Medical Subject Headings (MeSH) / Digestive System. March 2026.
+<sup>5</sup>Medical Subject Headings (MeSH) / Nervous System. March 2026.
 
-<sup>6</sup>Medical Subject Headings (MeSH) / Urogenital System. March 2026.
+<sup>6</sup>Medical Subject Headings (MeSH) / Digestive System. March 2026.
 
-<sup>7</sup>Medical Subject Headings (MeSH) / Endocrine System. March 2026.
+<sup>7</sup>Medical Subject Headings (MeSH) / Urogenital System. March 2026.
 
-<sup>8</sup>Medical Subject Headings (MeSH) / Hemic and Immune System. March 2026.
+<sup>8</sup>Medical Subject Headings (MeSH) / Endocrine System. March 2026.
 
-<sup>9</sup>Medical Subject Headings (MeSH) / Hearing. March 2026.
+<sup>9</sup>Medical Subject Headings (MeSH) / Hemic and Immune System. March 2026.
 
-<sup>10</sup>Medical Subject Headings (MeSH) / Vision, Ocular. March 2026.
+<sup>10</sup>Medical Subject Headings (MeSH) / Hearing. March 2026.
 
-<sup>11</sup>Medical Subject Headings (MeSH) / Speech. March 2026.
+<sup>11</sup>Medical Subject Headings (MeSH) / Vision, Ocular. March 2026.
 
-<sup>12</sup>Medical Subject Headings (MeSH) / Oral Health. March 2026.
+<sup>12</sup>Medical Subject Headings (MeSH) / Speech. March 2026.
 
-<sup>13</sup>Medical Subject Headings (MeSH) / Dermatology. March 2026.
+<sup>13</sup>Medical Subject Headings (MeSH) / Oral Health. March 2026.
 
-<sup>14</sup>European Language Social Science Thesaurus (ELSST) / Congenital disorders. March 2026.
+<sup>14</sup>Medical Subject Headings (MeSH) / Dermatology. March 2026.
 
-<sup>15</sup>Medical Subject Headings (MeSH) / Congenital Abnormalities. March 2026.
+<sup>15</sup>European Language Social Science Thesaurus (ELSST) / Congenital disorders. March 2026.
 
-<sup>16</sup>World Health Organisation (WHO) / Health topics / Cancer. March 2026.
+<sup>16</sup>Medical Subject Headings (MeSH) / Congenital Abnormalities. March 2026.
 
-<sup>17</sup>European Language Social Science Thesaurus (ELSST) / Mortality. March 2026.
+<sup>17</sup>World Health Organisation (WHO) / Health topics / Cancer. March 2026.
 
-<sup>18</sup>Medical Subject Headings (MeSH) / Reproductive Health. March 2026.
+<sup>18</sup>European Language Social Science Thesaurus (ELSST) / Mortality. March 2026.
 
-<sup>19</sup>Medical Subject Headings (MeSH) / Women's Health. March 2026.
+<sup>19</sup>Medical Subject Headings (MeSH) / Reproductive Health. March 2026.
 
-<sup>20</sup>Medical Subject Headings (MeSH) / Accidents. March 2026.
+<sup>20</sup>Medical Subject Headings (MeSH) / Women's Health. March 2026.
 
-<sup>21</sup>Medical Subject Headings (MeSH) / Wounds and Injuries. March 2026.
+<sup>21</sup>Medical Subject Headings (MeSH) / Accidents. March 2026.
 
-<sup>22</sup>Medical Subject Headings (MeSH) / Allergy and Immunology. March 2026.
+<sup>22</sup>Medical Subject Headings (MeSH) / Wounds and Injuries. March 2026.
 
-<sup>23</sup>Medical Subject Headings (MeSH) / Infections. March 2026.
+<sup>23</sup>Medical Subject Headings (MeSH) / Allergy and Immunology. March 2026.
 
-<sup>24</sup>Medical Subject Headings (MeSH) / Anthropometry. March 2026.
+<sup>24</sup>Medical Subject Headings (MeSH) / Infections. March 2026.
 
-<sup>25</sup>Law, R. J., Langley, J., Hall, B., Burton, C., Hiscock, J., Williams, L., ... & Williams, N. (2021). Promoting physical activity and physical function in people with long-term conditions in primary care: the Function First realist synthesis with co-design. Health and Social Care Delivery Research, 9(16), 1-104. <https://doi.org/10.3310/hsdr09160>
+<sup>25</sup>Medical Subject Headings (MeSH) / Anthropometry. March 2026.
 
-<sup>26</sup>Office for National Statistics (ONS) / General health, England and Wales: Census 2021. March 2026.
+<sup>26</sup>Law, R. J., Langley, J., Hall, B., Burton, C., Hiscock, J., Williams, L., ... & Williams, N. (2021). Promoting physical activity and physical function in people with long-term conditions in primary care: the Function First realist synthesis with co-design. Health and Social Care Delivery Research, 9(16), 1-104. <https://doi.org/10.3310/hsdr09160>
+
+<sup>27</sup>Office for National Statistics (ONS) / General health, England and Wales: Census 2021. March 2026.
 
 ## [Survey methods and administration (115)](https://closer-cohorts.github.io/closer-vocabulary-2026/survey-methods-and-administration/)
 
