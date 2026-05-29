@@ -81,7 +81,7 @@
 
 <sup>3</sup>Oxford English Dictionary (OED) / occupation. March 2026.
 
-<sup>4</sup>Oxford English Dictionary (OED) / employment. March 2026.
+<sup>4</sup>Medical Subject Headings (MeSH) / Employment. March 2026.
 
 <sup>5</sup>Medical Subject Headings (MeSH) / Social Class. March 2026.
 
@@ -89,7 +89,7 @@
 
 <sup>7</sup>Oxford English Dictionary (OED) / money management. March 2026.
 
-<sup>8</sup>Oxford English Dictionary (OED) / asset. March 2026. - edited.
+<sup>8</sup>Oxford online / asset. March 2026. - edited.
 
 <sup>9</sup>Cambridge Dictionary / expenditure. March 2026.
 
@@ -98,8 +98,6 @@
 <sup>11</sup>Oxford Dictionaries. March 2026.
 
 <sup>12</sup>Oxford Dictionaries. March 2026.
-
-<sup>13</sup>Medical Subject Headings (MeSH) / Retirement. March 2026.
 
 ## [Expectations, attitudes and beliefs (110)](https://closer-cohorts.github.io/closer-vocabulary-2026/expectations-attitudes-and-beliefs/)
 
