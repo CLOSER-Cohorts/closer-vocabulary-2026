@@ -50,5 +50,38 @@ Should new terms emerge, through user feedback, new data items etc necessitating
 
 Where variables do not have questions associated with them, such as Derived Variables, not available mapping, a remedial solution will be required!
 
+## DDI Implementation
 
+From a practical point of View, we will need to maintain both the Discovery Concepts / Topic vocabulary and the underlying conceptual metadata that supports concordance and mapping to ELSST.
+
+### Mapping between Conceptual Variable and Key Words
+
+There are two main options:
+
+1. Maintain a separate Concept system that references the Vocabulary using BroaderReference
+
+``` mermaid
+
+flowchart TD
+
+ CV[Conceptual Variable] -- "Broader" --> Concepts
+ CV -- "Narrower" --> KWP[Unique Key Words]
+ KWP -- "Broader" --> KWPG[Key Word Groups]
+ KWPG --> ELSST
+
+```
+
+2. Maintain a single Concept system using NarrowerReference in Concept to Conceptual Variable
+
+``` mermaid
+
+flowchart TD
+
+ Concepts  -- "Narrower" --> CV[Conceptual Variable]
+ CV -- "Narrower" --> KWP[Unique Key Words]
+ KWP -- "Broader" --> KWPG[Key Word Groups]
+ KWPG --> ELSST
+
+```
+The flatter, may be problematic a it will likely overload users if we cannot exclude it from rendering on the portal, the second, may take more maintenance
 
