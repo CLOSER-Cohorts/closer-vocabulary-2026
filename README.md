@@ -15,9 +15,8 @@ flowchart LR
  IV --> KWP[Unique Key Words]
  KWP --> KWPG[Key Word Groups]
  KWPG --> ELSST
-
  ELSST -.-> L2
- Question --> IV
+ Question --> KWP
  KWP -.-> CV
 
 ```
@@ -34,7 +33,9 @@ The mechanism to achieve this within a study which has good data management woul
 
 Unique words within a questions can be utilised as a way to automate this comparison against an existing Conceptual Variable.
 
-ELSST although voluminous, does not have the level of granularity to support each Conceptual Variable, but subsets of Key words could be mapped to ELSST.
+### Mapping to ELSST
+
+ELSST although voluminous, does not have the level of granularity to support each Conceptual Variable, but subsets of Key words could be mapped to ELSST, where ELSSST terms exist.
 
 ## Migrating to the new vocabulary
 
@@ -45,7 +46,9 @@ Where new vocabulary items are split into a new more granular vocabulary item, w
 
 Should new terms emerge, through user feedback, new data items etc necessitating a new vocabulary topic, the key word / concordances can be utilised to update the items to the new terms.
 
+## Known issues
 
+Where variables do not have questions associated with them, such as Derived Variables, not available mapping, a remedial solution will be required!
 
 
 
