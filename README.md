@@ -2,19 +2,42 @@
 
 The documents are available as web pages at: https://closer-cohorts.github.io/closer-vocabulary-2026/
 
-## Relationship between Vocabulary, Concepts, Variables etc
+## Current use of Vocabulary
+
+We use the term in the diagrams below of Concept L1 and L2, for the user these are presented as Topics.
 
 ``` mermaid
 
 flowchart LR
 
- L1[Level 1 Concept] --> L2[Level 2 Concept]
- IV[Concorded instance Variable] --> CV
+ L1[Discovery Level 1 Concept] --> L2[Discovery Level 2 Concept]
+ IV[instance Variable] --> L1
+ IV[instance Variable] --> L2
+ Question --> L1
+ Question --> L2
+
+```
+
+## Relationship between Vocabulary, Concepts, Variables etc
+
+In addition to these relationship, further relationships will be added
+
+``` mermaid
+
+flowchart LR
+
+ IV[instance Variable] --> L1
+ IV[instance Variable] --> L2
+ Question --> L1
+ Question --> L2
+ L1[Discovery Level 1 Concept] --> L2[Discovery Level 2 Concept]
+ IV[instance Variable] --> CV
  CV[Conceptual Variable] -->L1
  CV[Conceptual Variable] -->L2
  IV --> KWP[Unique Key Words]
- KWP --> KWPG[Key Word Groups]
+ KWP --> KWPG[Key Word Groups?]
  KWPG --> ELSST
+ ELSST -.-> L1
  ELSST -.-> L2
  Question --> KWP
  KWP -.-> CV
@@ -64,10 +87,10 @@ There are two main options:
 
 flowchart TD
 
- CV[Conceptual Variable] -- "Broader" --> Concepts
- CV -- "Narrower" --> KWP[Unique Key Words]
- KWP -- "Broader" --> KWPG[Key Word Groups]
- KWPG --> ELSST
+ CV[Conceptual Variable] -- "Broader" --> Concepts[Discovery Concepts L1 & L2]
+ CV -- "Narrower" --> KWP[Unique Key Words Concept]
+ KWP -- "Broader" --> KWPG[Key Word Groups Concept]
+ KWPG --> ELSST[ELSST Term]
 
 ```
 
@@ -77,10 +100,10 @@ flowchart TD
 
 flowchart TD
 
- Concepts  -- "Narrower" --> CV[Conceptual Variable]
- CV -- "Narrower" --> KWP[Unique Key Words]
- KWP -- "Broader" --> KWPG[Key Word Groups]
- KWPG --> ELSST
+ Concepts[Discovery Concepts L1 & L2]  -- "Narrower" --> CV[Conceptual Variable]
+ CV -- "Narrower" --> KWP[Unique Key Words Concept]
+ KWP -- "Broader" --> KWPG[Key Word Groups Concept]
+ KWPG --> ELSST[ELSST Term]
 
 ```
 The flatter, may be problematic a it will likely overload users if we cannot exclude it from rendering on the portal, the second, may take more maintenance
