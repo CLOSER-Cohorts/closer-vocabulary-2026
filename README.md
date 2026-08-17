@@ -2,7 +2,7 @@
 
 The documents are available as web pages at: https://closer-cohorts.github.io/closer-vocabulary-2026/
 
-## Relationship between Vocabulary and Variables
+## Relationship between Vocabulary, Concepts, Variables etc
 
 ``` mermaid
 
