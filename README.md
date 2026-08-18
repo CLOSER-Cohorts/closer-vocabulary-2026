@@ -87,7 +87,7 @@ There are two main options:
 
 flowchart TD
 
- CV[Conceptual Variable] -- "Broader" --> Concepts[Discovery Concepts L1 & L2]
+ Concepts[Discovery Concepts L1 & L2] -- "Broader" --> CV[Conceptual Variable]  
  CV -- "Narrower" --> KWP[Unique Key Words Concept]
  KWP -- "Broader" --> KWPG[Key Word Groups Concept]
  KWPG --> ELSST[ELSST Term]
