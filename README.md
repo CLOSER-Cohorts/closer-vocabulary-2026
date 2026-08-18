@@ -86,8 +86,7 @@ There are two main options:
 ``` mermaid
 
 flowchart TD
-
- Concepts[Discovery Concepts L1 & L2] -- "Broader" --> CV[Conceptual Variable]  
+ CV[Conceptual Variable]  -- "Broader" --> Concepts[Discovery Concepts L1 & L2] 
  CV -- "Narrower" --> KWP[Unique Key Words Concept]
  KWP -- "Broader" --> KWPG[Key Word Groups Concept]
  KWPG --> ELSST[ELSST Term]
