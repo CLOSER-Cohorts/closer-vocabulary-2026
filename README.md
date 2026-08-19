@@ -34,9 +34,9 @@ flowchart LR
  IV[instance Variable] --> CV
  CV[Conceptual Variable] -->L1
  CV[Conceptual Variable] -->L2
- IV --> KWP[Unique Key Words]
- KWP --> KWPG[Key Word Groups?]
- KWPG --> ELSST
+ IV --> KWL[Unique Key Word Lemma]
+ KWL --> KWLG[Key Word Lemma Groups?]
+ KWLG --> ELSST
  ELSST -.-> L1
  ELSST -.-> L2
  Question --> KWP
@@ -87,9 +87,9 @@ There are two main options:
 
 flowchart TD
  CV[Conceptual Variable]  -- "Broader" --> Concepts[Discovery Concepts L1 & L2] 
- CV -- "Narrower" --> KWP[Unique Key Words Concept]
- KWP -- "Broader" --> KWPG[Key Word Groups Concept]
- KWPG --> ELSST[ELSST Term]
+ CV -- "Narrower" --> KWL[Unique Key Words Lemma]
+ KWL -- "Broader" --> KWLG[Key Word Lemma Groups]
+ KWLG --> ELSST[ELSST Term]
 
 ```
 
@@ -100,9 +100,9 @@ flowchart TD
 flowchart TD
 
  Concepts[Discovery Concepts L1 & L2]  -- "Narrower" --> CV[Conceptual Variable]
- CV -- "Narrower" --> KWP[Unique Key Words Concept]
- KWP -- "Broader" --> KWPG[Key Word Groups Concept]
- KWPG --> ELSST[ELSST Term]
+ CV -- "Narrower" --> KWL[Unique Key Words Lemma]
+ KWL -- "Broader" --> KWLG[Key Word Groups Lemma]
+ KWLG --> ELSST[ELSST Term]
 
 ```
 The flatter, may be problematic a it will likely overload users if we cannot exclude it from rendering on the portal, the second, may take more maintenance
