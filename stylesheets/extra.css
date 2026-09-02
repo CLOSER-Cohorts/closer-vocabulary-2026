@@ -1,0 +1,63 @@
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    fill: currentcolor;
+    display: block;
+    height: 2.4rem;
+    width:auto
+}
+.tabbed-set {
+  border: 2px solid #ccc;
+  border-radius: 6px;
+  padding: 10px;
+}
+
+.tabbed-content {
+  border-top: 1px solid #ccc;
+  padding: 10px;
+}
+
+table {
+  border: 2.5px solid;
+  border-collapse: collapse;
+}
+
+th {
+    background-color: #D3D3D3;
+}
+    
+tr:nth-child(even) {background-color: #D3D3D3;}
+
+.md-tabs__link {
+    font-size: 1.1rem; 
+    font-weight: bold; /* Controls font size of tabbed content */
+}
+  
+.md-typeset .tabbed-content {
+  font-size: 1.0em /* Controls font size of text in tabs */
+}
+
+.md-typeset .admonition {
+  font-size: 1.0em /* Controls font size of admonition */
+}
+
+.md-typeset .admonition.note > .admonition-title::before {
+  content: none; /* Removes the icon in admonition with empty titles */
+}
+
+.md-typeset .grid.cards > * {
+  border: 4px solid #333;   /* thickness + color */
+  border-radius: 6px;       /* optional: rounded corners */
+  padding: 1rem;            /* optional: spacing inside */
+}
+
+#.md-content {
+#   min-width: 1400px;
+#}
+
+.md-main__inner.md-grid {
+    max-width: 2000px;
+}
+
+h1, h2 {
+    color: #000000; /* Pure black or choose a darker shade */
+    font-weight: 900; /* Optional: make them bolder */
+}
