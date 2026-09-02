@@ -1,4 +1,4 @@
-# Family and social networks (107)
+# Family and interpersonal relations (107)
 
 | **Topic** | **Description** | **Definition** | **Terms (ELSST)** | **What is it** | **What it isn’t** | **Examples** | **Changes** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
