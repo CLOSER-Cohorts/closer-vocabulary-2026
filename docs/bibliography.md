@@ -213,21 +213,19 @@
 
 ## [Mental health (104)](https://closer-cohorts.github.io/closer-vocabulary-2026/mental-health/)
 
-<sup>1</sup>American Psychological Association (APA) / mental health. March 2026.
+<sup>1</sup>American Psychological Association (APA) / mental illness. March 2026.
 
-<sup>2</sup>American Psychological Association (APA) / mental illness. March 2026.
+<sup>2</sup>American Psychological Association (APA) / mental health. March 2026.
 
 <sup>3</sup>American Psychological Association (APA) / well-being. March 2026.
 
 <sup>4</sup>American Psychological Association (APA) / emotion. March 2026.
 
+<sup>5</sup>American Psychological Association (APA) / personality. April 2026.
+
 ## [Omics (113)](https://closer-cohorts.github.io/closer-vocabulary-2026/omics/)
 
 <sup>1</sup>Oxford online.
-
-## [Personality (118)](https://closer-cohorts.github.io/closer-vocabulary-2026/personality/)
-
-1American Psychological Association (APA) / personality. April 2026.
 
 ## [Physical health (103)](https://closer-cohorts.github.io/closer-vocabulary-2026/physical-health/)
 
