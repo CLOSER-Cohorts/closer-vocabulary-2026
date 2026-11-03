@@ -211,7 +211,7 @@
 
 <sup>5</sup>National Institutes of Health / Infant mortality. May 2026.
 
-## [Mental health (104)](https://closer-cohorts.github.io/closer-vocabulary-2026/mental-health/)
+## [Mind (104)](https://closer-cohorts.github.io/closer-vocabulary-2026/mind/)
 
 <sup>1</sup>American Psychological Association (APA) / mental illness. March 2026.
 
