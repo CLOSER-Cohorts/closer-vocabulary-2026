@@ -10,7 +10,7 @@ theme:
     text: Source Sans Pro  
 nav:
   - Child development: "child-development.md"
-  - Cognitive functioning: "cognitive-functioning.md"
+  - Cognitive processes: "cognitive-functioning.md"
   - Demographics: "demographics.md"
   - Education: "education.md"
   - Employment and income: "employment-and-income.md"
