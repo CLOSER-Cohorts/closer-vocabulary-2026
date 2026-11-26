@@ -10,7 +10,7 @@ theme:
     text: Source Sans Pro  
 nav:
   - Child development: "child-development.md"
-  - Cognitive processes: "cognitive-functioning.md"
+  - Cognitive processes: "cognitive-processes.md"
   - Demographics: "demographics.md"
   - Education: "education.md"
   - Expectations, attitudes and beliefs: "expectations-attitudes-and-beliefs.md"
